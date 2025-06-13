@@ -1,7 +1,8 @@
 numpy==1.23.5
 pandas
 scikit-learn
-tensorflow==2.10.0
 ml_dtypes==0.1.0
 keras
-protobuf==3.19.6
+tensorflow==2.13.0
+protobuf==3.20.3
+streamlit
