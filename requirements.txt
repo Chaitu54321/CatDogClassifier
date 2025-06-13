@@ -1,8 +1,6 @@
 numpy
 pandas
 scikit-learn
-tensorflow==2.10.0
-ml_dtypes==0.2.0
+tensorflow
 keras
-protobuf==3.19.6
 
