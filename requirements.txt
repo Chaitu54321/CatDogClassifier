@@ -3,6 +3,7 @@ pandas
 scikit-learn
 ml_dtypes==0.1.0
 keras
-tensorflow==2.13.0
-protobuf==3.20.3
-streamlit
+tensorflow==2.19.0
+protobuf==4.25.3
+streamlit==1.45.1
+
